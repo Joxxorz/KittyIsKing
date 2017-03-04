@@ -1,0 +1,6 @@
+## Interface: 70100
+## Title: KITTY IS KING!
+## Notes: Jock's first AddOn
+KittyIsKing.lua
+KittyIsKing.xml
+YouCanDooooIt.lua
